@@ -1,31 +1,23 @@
-<div align="center">
+<img width="882" height="187" alt="image" src="https://github.com/user-attachments/assets/f8cd3b60-755a-4327-bee8-b12c8a3d324f" />
 
-<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 25px 30px; max-width: 650px; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
 
-  <!-- Mac-style Terminal Window Controls -->
-  <div style="text-align: left; margin-bottom: 15px;">
-    <span style="height: 12px; width: 12px; background-color: #ff5f56; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
-    <span style="height: 12px; width: 12px; background-color: #ffbd2e; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
-    <span style="height: 12px; width: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block;"></span>
-  </div>
+### Hi there 👋, I'm Amos (ahcode2001)
 
-  <!-- Table to enforce side-by-side columns on GitHub -->
-  <table style="width: 100%; border-collapse: collapse; background: transparent; border: none;">
-    <tr style="background: transparent; border: none;">
-      <td style="text-align: left; vertical-align: top; border: none; padding: 0;">
-        <p style="color: #8b949e; margin: 0 0 8px 0; font-size: 0.85rem;">$ whoami</p>
-        <h2 style="color: #f0f6fc; margin: 0; font-size: 1.35rem; font-weight: 600;">
-          Amos Ho – <span style="color: #f0f6fc;">Data Analyst & IT Undergrad</span>
-        </h2>
-      </td>
-      <td style="text-align: right; vertical-align: top; border: none; padding: 0; color: #8b949e; font-size: 0.9rem; line-height: 1.6;">
-        <span style="color: #e6edf3; font-weight: 500;">IT Undergrad</span><br>
-        <span style="color: #58a6ff;">➔ Data Analyst</span><br>
-        <span style="color: #58a6ff;">➔ Python & Pandas</span>
-      </td>
-    </tr>
-  </table>
+🚀 **Full Stack Developer, Data Analyst & IT Undergraduate**  
+Majoring in Information Technology with a strong focus on Data Analysis, building robust web applications, enterprise telemetry systems, and mobile-first tools.
 
-</div>
+---
 
-</div>
+### 💻 Tech Stack, Data & Tools
+* **Languages & Data:** Python, JavaScript, SQL, HTML5, CSS3, Pandas, NumPy
+* **Data & Analytics:** Statistical Modeling, JSON/CSV Data Pipelines, Exploratory Data Analysis
+* **Backend & Frameworks:** FastAPI, Node.js, Express, SQLAlchemy
+* **Databases:** PostgreSQL, SQLite
+* **Mobile & Frontend:** React, React Native, Expo, Progressive Web Apps (PWA)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-seven-beta-87.vercel.app/api?username=ahcode2001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
