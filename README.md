@@ -26,7 +26,6 @@
       <span style="color: #58a6ff;">➔ Data Analyst</span><br>
       <span style="color: #58a6ff;">➔ Python & Pandas</span>
     </div>
-    </div>
 
   </div>
 
@@ -34,8 +33,7 @@
 
 </div>
 
-<div align="left">
-
+<br>
 
 ### Hi there 👋, I'm Amos (ahcode2001)
 
