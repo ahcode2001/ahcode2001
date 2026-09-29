@@ -10,23 +10,10 @@ Building robust web applications, enterprise telemetry systems, and mobile-first
 * **Backend & Frameworks:** FastAPI, Node.js, Express, SQLAlchemy
 * **Databases:** PostgreSQL, SQLite
 * **Mobile & Frontend:** React, React Native, Expo, Progressive Web Apps (PWA)
-* **Tools & DevOps:** Git, GitHub, Docker, AWS, Vercel
-
----
-
-### 📌 Current Focus
-* Developing full-stack enterprise applications like **FleetPulse** and **Cuop Note**.
-* Exploring advanced data analysis with Pandas and NumPy.
-* Creating production-grade, responsive user interfaces.
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahcode2001&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-seven-beta-87.vercel.app/api?username=ahcode2001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
----
-
-### 📬 Let's Connect!
-* 🌐 **Portfolio/GitHub:** [ahcode2001](https://github.com/ahcode2001)
