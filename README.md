@@ -1,12 +1,5 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="40"/>
-</div>
 
 <div align="center">
-
-```bash
-$ whoami
-```
 
 
 ### Hi there 👋, I'm Amos (ahcode2001)
