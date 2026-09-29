@@ -1,12 +1,13 @@
 ### Hi there 👋, I'm Amos (ahcode2001)
 
-🚀 **Full Stack Developer & Software Engineering Enthusiast**  
-Building robust web applications, enterprise telemetry systems, and mobile-first tools.
+🚀 **Full Stack Developer, Data Analyst & IT Undergraduate**  
+Majoring in Information Technology with a strong focus on Data Analysis, building robust web applications, enterprise telemetry systems, and mobile-first tools.
 
 ---
 
-### 💻 Tech Stack & Tools
-* **Languages:** JavaScript, Python, HTML5, CSS3
+### 💻 Tech Stack, Data & Tools
+* **Languages & Data:** Python, JavaScript, SQL, HTML5, CSS3, Pandas, NumPy
+* **Data & Analytics:** Statistical Modeling, JSON/CSV Data Pipelines, Exploratory Data Analysis
 * **Backend & Frameworks:** FastAPI, Node.js, Express, SQLAlchemy
 * **Databases:** PostgreSQL, SQLite
 * **Mobile & Frontend:** React, React Native, Expo, Progressive Web Apps (PWA)
