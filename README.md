@@ -23,7 +23,7 @@ Building robust web applications, enterprise telemetry systems, and mobile-first
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahcode2001&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ahcode2001&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
